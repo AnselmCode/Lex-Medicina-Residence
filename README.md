@@ -1,2 +1,2 @@
 # Lex-Medicina-Residence
-Lex Medicina Residence is a full-stack web application designed to streamline the management of luxury medical residencies. Built with a React-based frontend and a robust Firebase backend
+Lex Medicina Residence is a full-stack web application designed to streamline the management of luxury medical residencies. Built with a React-based frontend and a robust Firebase backend, the platform enables seamless property browsing for guests and a secured central command center for admins
